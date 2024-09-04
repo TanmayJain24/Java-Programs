@@ -1,0 +1,2 @@
+dll.reverse();
+        dll.print();
